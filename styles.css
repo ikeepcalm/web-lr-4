@@ -67,7 +67,7 @@ body {
 .title p {
     color: slategray;
     font-style: italic;
-    margin: 0;
+    margin-bottom: 20px;
 }
 
 .container {
